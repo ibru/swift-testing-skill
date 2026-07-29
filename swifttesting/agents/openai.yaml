@@ -1,0 +1,4 @@
+interface:
+  display_name: "SwiftTesting Coach"
+  short_description: "Domain-first Swift Testing unit test guidance"
+  default_prompt: "Use $swifttesting to design Swift Testing unit tests that verify domain behavior and keep production code testable."

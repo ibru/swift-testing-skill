@@ -1,0 +1,27 @@
+{
+  "name": "swifttesting",
+  "version": "1.0.0",
+  "description": "Very opinionated Swift unit testing skill for TDD and BDD workflows with the Swift Testing framework: behavior-first tests, WHEN_THEN naming, makeSUT factories, and deterministic test doubles.",
+  "author": {
+    "name": "Jiri Urbasek",
+    "email": "jiri@urbasek.cz"
+  },
+  "repository": "https://github.com/ibru/swift-testing-skill",
+  "license": "MIT",
+  "keywords": [
+    "swift",
+    "swift-testing",
+    "unit-testing",
+    "tdd",
+    "ios",
+    "apple",
+    "test-doubles",
+    "async-testing",
+    "parameterized-tests",
+    "bdd",
+    "opinionated"
+  ],
+  "skills": [
+    "./swifttesting"
+  ]
+}

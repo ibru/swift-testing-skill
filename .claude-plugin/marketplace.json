@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/marketplace/marketplace.schema.json",
+  "name": "swift-testing-skill",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Jiri Urbasek",
+    "email": "jiri@urbasek.cz"
+  },
+  "metadata": {
+    "description": "Very opinionated, domain-first Swift unit testing for TDD/BDD workflows with the Swift Testing framework."
+  },
+  "plugins": [
+    {
+      "name": "swifttesting",
+      "description": "Very opinionated Swift unit testing skill for TDD and BDD workflows with the Swift Testing framework: behavior-first tests, WHEN_THEN naming, makeSUT factories, and deterministic test doubles.",
+      "repository": "https://github.com/ibru/swift-testing-skill",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jiri Urbasek",
+        "email": "jiri@urbasek.cz"
+      },
+      "license": "MIT",
+      "category": "development",
+      "keywords": [
+        "swift",
+        "swift-testing",
+        "unit-testing",
+        "tdd",
+        "ios",
+        "apple",
+        "test-doubles",
+        "bdd",
+        "opinionated"
+      ],
+      "tags": [
+        "swift",
+        "swift-testing",
+        "unit-testing",
+        "tdd",
+        "ios",
+        "apple",
+        "test-doubles",
+        "bdd",
+        "opinionated"
+      ],
+      "source": "./"
+    }
+  ]
+}
